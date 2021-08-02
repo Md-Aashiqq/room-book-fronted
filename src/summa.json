@@ -1,0 +1,59 @@
+        {
+            "ratingsAverage": 4.8,
+            "ratingsQuantity": 6,
+            "location":"tirunelvali",
+            "imagesURL": "https://a0.muscache.com/im/pictures/df71bfaa-d05c-4e8d-a87d-358571fad7e1.jpg?im_w=720",
+            "name": "The Hotel Sams",
+            "maxMemberSize": 8,
+            "price": 497,
+            "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
+            "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "__v": 0,
+        "avalRooms":[ { "no":"1","ocp":"false" },{ "no":"2","ocp":"false" },{ "no":"3","ocp":"false" },{ "no":"4","ocp":"false" },{ "no":"5","ocp":"false" },{ "no":"6","ocp":"false" },{ "no":"7","ocp":"false" },{ "no":"8","ocp":"false" },{ "no":"9","ocp":"false" },{ "no":"10","ocp":"false" },{ "no":"11","ocp":"false" } ]   
+        },
+        {
+            "ratingsAverage": 3.8,
+            "ratingsQuantity": 4,
+            "location":"chennai",
+            "imagesURL": "https://a0.muscache.com/im/pictures/4efadd45-e70b-47de-bd99-f92688d2e63a.jpg?im_w=720",
+            "name": "New private A/C apartment",
+            "maxMemberSize": 8,
+            "price": 875,
+            "summary": "Beautiful new private apartment (+ 2 private bathrooms) with a private entrance",
+            "description": "Beautiful new private apartment (+ 2 private bathrooms) with a private entrance which is placed little insider where you won't get noise & air polution.Even if you book it for 2 person, the entire apartment will get blocked for you 2 ONLY :)The quality of our service and guests' care are the first priority and the most important for us (WiFi 20Mbps)",
+            "__v": 0,
+             "avalRooms":[ { no:"1",ocp:"false" },{ no:"2",ocp:"false" },{ no:"3",ocp:"false" },{ no:"4",ocp:"false" },{ no:"5",ocp:"false" },{ no:"6",ocp:"false" },{ no:"7",ocp:"false" },{ no:"8",ocp:"false" },{ no:"9",ocp:"false" },{ no:"10",ocp:"false" },{ no:"11",ocp:"false" } ]
+        },
+        {
+            "ratingsAverage": 3.8,
+            "ratingsQuantity": 4,
+            
+            "imagesURL": "https://a0.muscache.com/im/pictures/7022de46-dee3-491e-9fbc-63fe23c31dc2.jpg?aki_policy=large",
+            "name": "New private A/C apartment 2",
+            "maxMemberSize": 8,
+            "price": 1300,
+            "location": "tirunelvali",
+            "summary": "Beautiful new private apartment (+ 2 private bathrooms) with a private entrance",
+            "description": "Beautiful new private apartment (+ 2 private bathrooms) with a private entrance which is placed little insider where you won't get noise & air polution.Even if you book it for 2 person, the entire apartment will get blocked for you 2 ONLY :)The quality of our service and guests' care are the first priority and the most important for us (WiFi 20Mbps)",
+            "__v": 0,
+            "avalRooms":[ { no:"1",ocp:"false" },{ no:"2",ocp:"false" },{ no:"3",ocp:"false" },{ no:"4",ocp:"false" },{ no:"5",ocp:"false" },{ no:"6",ocp:"false" },{ no:"7",ocp:"false" },{ no:"8",ocp:"false" },{ no:"9",ocp:"false" },{ no:"10",ocp:"false" },{ no:"11",ocp:"false" } ]
+
+        },
+        {
+            "ratingsAverage": 3.2,
+            "ratingsQuantity": 12,
+            
+            "imagesURL": "https://a0.muscache.com/im/pictures/b78438aa-6b14-43b3-a293-af7c8b2f631b.jpg?im_w=720",
+            "name": "Apartment bathed in Sunshine 1",
+            "maxMemberSize": 12,
+            "price": 1490,
+            "location": "chennai",
+            "summary": "An elegant place, pastel and bright colors to sync in with your mood",
+            "description": "An elegant place, pastel and bright colors to sync in with your mood. The lighting that has been used would certainly make you feel at home. Indulge yourselves in this spacious apartment. The interior of the house reflects the simplicity that has been enhanced through few color combinations. The magnificent apartment bathed in sunshine is on the Ground Floor of the building. An elegant hall for you to unwind during the day and fully functional kitchenette to fulfill your needs.",
+            "__v": 0,
+             "avalRooms":[ { no:"1",ocp:"false" },{ no:"2",ocp:"false" },{ no:"3",ocp:"false" },{ no:"4",ocp:"false" },{ no:"5",ocp:"false" },{ no:"6",ocp:"false" },{ no:"7",ocp:"false" },{ no:"8",ocp:"false" },{ no:"9",ocp:"false" },{ no:"10",ocp:"false" },{ no:"11",ocp:"false" } ]
+        }
+
+        {
+            "avalRooms":[ { no:"1",ocp:"false" },{ no:"2",ocp:"false" },{ no:"3",ocp:"false" },{ no:"4",ocp:"false" },{ no:"5",ocp:"false" },{ no:"6",ocp:"false" },{ no:"7",ocp:"false" },{ no:"8",ocp:"false" },{ no:"9",ocp:"false" },{ no:"10",ocp:"false" },{ no:"11",ocp:"false" } ]
+        }
